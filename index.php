@@ -5,9 +5,9 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="shortcut icon" href="imagens/logo.jpg">
-		<link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css">		
+		<link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css">
 		<link rel="stylesheet" href="externo/fontawesome/css/all.css">
-		
+
 		<style type="text/css">
 		body{
 			background: #f9f9f9;
@@ -16,9 +16,9 @@
 			border-right: 0.5px solid rgba(255,255,255, .3);
 		}
 		.box{
-			
-			background-color: #485058b0;
-			border: none;	
+
+			background-color: #485058b2;
+			border: none;
 			color:white;
 			height: 30px;
 		}
@@ -26,12 +26,12 @@
 			background-color:#485058b0;
 			color: white;
 			box-shadow: none;
-			
-			
+
+
 		}
 		.carousel{
 			background-color: #2f363d;
-			
+
 		}
 		.col-sm{
 			margin-top: 10px;
@@ -69,8 +69,8 @@
 			width: 300px;
 		}
 
-		
-		
+
+
 
 	</style>
 </head>
@@ -86,7 +86,7 @@
 
 		<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
 			<ul class="navbar-nav mr-auto mt-2 mt-lg-0" style="margin-left: 0px;">
-				
+
 				<li class="nav-item">
 					<form class="form-inline" style="margin-left: 5px;">
 						<input class="form-control mr-sm-2 box" type="search" placeholder="Pesquisar.." aria-label="Search">
@@ -127,9 +127,9 @@
 		</div>
 
 	</div>
-	<div class="container" style="margin-top: 40px; margin-bottom: 40px;text-align:  justify;"> 		Acima de tudo, é fundamental ressaltar que a contínua expansão de nossa atividade promove a alavancagem das formas de ação. Gostaria de enfatizar que a complexidade dos estudos efetuados aponta para a melhoria das diretrizes de desenvolvimento para o futuro. Do mesmo modo, a necessidade de renovação processual estimula a padronização do impacto na agilidade decisória. No entanto, não podemos esquecer que a constante divulgação das informações ainda não demonstrou convincentemente que vai participar na mudança do fluxo de informações. 
-				 Acima de tudo, é fundamental ressaltar que a contínua expansão de nossa atividade promove a alavancagem das formas de ação. Gostaria de enfatizar que a complexidade dos estudos efetuados aponta para a melhoria das diretrizes de desenvolvimento para o futuro. Do mesmo modo, a necessidade de renovação processual estimula a padronização do impacto na agilidade decisória. No entanto, não podemos esquecer que a constante divulgação das informações ainda não demonstrou convincentemente que vai participar na mudança do fluxo de informações. 
-				  Acima de tudo, é fundamental ressaltar que a contínua expansão de nossa atividade promove a alavancagem das formas de ação. Gostaria de enfatizar que a complexidade dos estudos efetuados aponta para a melhoria das diretrizes de desenvolvimento para o futuro. Do mesmo modo, a necessidade de renovação processual estimula a padronização do impacto na agilidade decisória. No entanto, não podemos esquecer que a constante divulgação das informações ainda não demonstrou convincentemente que vai participar na mudança do fluxo de informações. 
+	<div class="container" style="margin-top: 40px; margin-bottom: 40px;text-align:  justify;"> 		Acima de tudo, é fundamental ressaltar que a contínua expansão de nossa atividade promove a alavancagem das formas de ação. Gostaria de enfatizar que a complexidade dos estudos efetuados aponta para a melhoria das diretrizes de desenvolvimento para o futuro. Do mesmo modo, a necessidade de renovação processual estimula a padronização do impacto na agilidade decisória. No entanto, não podemos esquecer que a constante divulgação das informações ainda não demonstrou convincentemente que vai participar na mudança do fluxo de informações.
+				 Acima de tudo, é fundamental ressaltar que a contínua expansão de nossa atividade promove a alavancagem das formas de ação. Gostaria de enfatizar que a complexidade dos estudos efetuados aponta para a melhoria das diretrizes de desenvolvimento para o futuro. Do mesmo modo, a necessidade de renovação processual estimula a padronização do impacto na agilidade decisória. No entanto, não podemos esquecer que a constante divulgação das informações ainda não demonstrou convincentemente que vai participar na mudança do fluxo de informações.
+				  Acima de tudo, é fundamental ressaltar que a contínua expansão de nossa atividade promove a alavancagem das formas de ação. Gostaria de enfatizar que a complexidade dos estudos efetuados aponta para a melhoria das diretrizes de desenvolvimento para o futuro. Do mesmo modo, a necessidade de renovação processual estimula a padronização do impacto na agilidade decisória. No entanto, não podemos esquecer que a constante divulgação das informações ainda não demonstrou convincentemente que vai participar na mudança do fluxo de informações.
 
 
 	</div>
@@ -149,7 +149,7 @@
 				if ($(this).val() == "") {
 					$(this).animate({width:'-=250px'})
 				}
-				
+
 			});
 		});
 	</script>

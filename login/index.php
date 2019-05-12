@@ -30,7 +30,7 @@
 				</ul>
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item"><a class="nav-link" href="../">Página Inicial</a></li>
-					<li class="nav-item"><a class="nav-link" href="login/">Entrar</a></li>
+					<li class="nav-item"><a class="nav-link" href="index.php">Entrar</a></li>
 				</ul>
 			</div>
 		</nav>

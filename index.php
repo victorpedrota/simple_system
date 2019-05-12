@@ -105,21 +105,21 @@
 				<div class="col-sm">
 					<figure class="figure">
 						<img src="imagens/generic.jpg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
-						<figcaption class="figure-caption">A caption for the above image.</figcaption>
+
 					</figure>
 
 				</div>
 				<div class="col-sm">
 					<figure class="figure">
 						<img src="imagens/generic.jpg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
-						<figcaption class="figure-caption">A caption for the above image.</figcaption>
+
 					</figure>
 
 				</div>
 				<div class="col-sm">
 					<figure class="figure">
 						<img src="imagens/generic.jpg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
-						<figcaption class="figure-caption">A caption for the above image.</figcaption>
+					
 					</figure>
 
 				</div>
